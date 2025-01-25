@@ -1,0 +1,5 @@
+flask
+flask-sqlalchemy
+authlib
+flask-jwt-extended
+flask-cors
