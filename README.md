@@ -59,12 +59,12 @@ The fidoauth service frontend should be running on http://localhost:3000
 
 1. Go to http://localhost:3000 and click "Create Account"
 ![image](./public/images/landing_page.png)
-2. Fill in the form and click "Create Account"
-![image](./public/images/sign_up.png){width=50%}
-3. The browser will prompt you to scan your FIDO2 device (it could be Apple's FaceID or TouchID,  or any other FIDO2 device)
-![image](./public/images/fido_prompt.png){width=50%}
-4. After successful authentication, you will be redirected to the profile page
-![image](./public/images/profile.png){width=50%}
+2. Fill in the form and click "Create Account"<br/>
+<img src="./public/images/sign_up.png" width="50%">
+3. The browser will prompt you to scan your FIDO2 device (it could be Apple's FaceID or TouchID,  or any other FIDO2 device)<br/>
+<img src="./public/images/fido_prompt.png" width="50%">
+4. After successful authentication, you will be redirected to the profile page<br/>
+<img src="./public/images/profile.png" width="50%">
 
 # Login to Fidoauth
 
